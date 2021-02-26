@@ -1,5 +1,9 @@
 <html>
 
+<style>
+  h1 {font-size: 40px;}
+</style>
+
 <head>
 <title>Assurance</title>
 </head>
